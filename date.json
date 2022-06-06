@@ -1,0 +1,144 @@
+ [{
+    "id": 1,
+    "name": "Ilhomjon Rahimov",
+    "profil": "assets/img/ilhomjon.jpg",
+    "phone": "+998 99 987 65 43",
+    "username": "@Rahimov_Ilhomjon",
+    "bio": "19 y.o. Python Developer",
+    "messages": [
+        {
+            "author": "me",
+            "date": "09:21",
+            "message": "Assalomu Alaykum yaxshimisiz"
+        }
+
+    ]   
+}, {
+    "id": 2,
+    "name": "Iqboljon Yuldashev",
+    "profil": "assets/img/iqboljon.jpg",
+    "phone": "+998 90 021 67 07",
+    "username": "@musulman_0201",
+    "bio": "19 y.o. Frontend developer in Uzbekistan",
+    "messages": [
+        {
+            "author": "me",
+            "date": "12:42",
+            "message": "Assalomu Alaykum yaxshimisiz"
+        }
+
+    ]
+}, {
+    "id": 3,
+    "name": "Husanboy aka",
+    "profil": "assets/img/husanboy.jpg",
+    "phone": "+998 94 591 40 90",
+    "username": "@husanboy_ohyton_developer",
+    "bio": "Men endi dunyodagi hamma narsani biladigan darajada yosh emasman...",
+    "messages": [
+        {
+            "author": "me",
+            "date": "01:22",
+            "message": "Assalomu Alaykum yaxshimisiz"
+        }
+
+    ]
+},
+{
+    "id": 4,
+    "name": "Abbosbek Kursdosh",
+    "profil": "assets/img/abbosbek.jpg",
+    "phone": "+998 94 000 00 12",
+    "username": "@ustaboyev_abbosbek",
+    "bio": "Android Developer",
+    
+    "messages": [ {
+        "author": "me",
+        "date": "21:21",
+        "message": "Assalomu Alaykum yaxshimisiz"
+    }]
+},
+{
+    "id": 5,
+    "name": "Diyorbek Do'stim",
+    "profil": "assets/img/diyorbek.jpg",
+    "phone": "+998 90 031 11 99",
+    "username": "@karimov_diyorbek02",
+    "bio": "20 y.o. 3D MAX designer",
+    "messages": [ {
+        "author": "me",
+        "date": "12:31",
+        "message": "Qachon kelasan"
+    }]
+}
+,
+{
+    "id": 6,
+    "name": "Habibulloh Jigarim",
+    "profil": "assets/img/habibulloh.jpg",
+    "phone": "+998 90 124 54 65",
+    "username": "@nuriddin_off",
+    "bio": "@khabibullohuz",
+    "messages": [ {
+        "author": "me",
+        "date": "18:56",
+        "message": "Dostim yaxshmisiz"
+    }]
+}
+,
+{
+    "id": 7,
+    "name": "Asadbek Do'stim",
+    "profil": "assets/img/asadbek.jpg",
+    "phone": "+998 90 434 56 99",
+    "username": "@asadbek_off",
+    "bio": "Diplomacy university student",
+    "messages": [ {
+        "author": "me",
+        "date": "21:41",
+        "message": "Assalomu alaykum va rahmatullohi va barakotuh"
+    }]
+}
+,
+{
+    "id": 8,
+    "name": "Aymurat Yedenbayev",
+    "profil": "assets/img/aymurat.jpg",
+    "phone": "+998 93 576 68 27",
+    "username": "@aymogo",
+    "bio": "Всё будет хорошо 🫂",
+    "messages": [ {
+        "author": "me",
+        "date": "23:45",
+        "message": "Dostim qalesan"
+    }]
+}
+,
+{
+    "id": 9,
+    "name": "Fulfil admin",
+    "profil": "assets/img/fulfil.jpg",
+    "phone": "+998 91 323 33 32",
+    "username": "@fulfiledu",
+    "bio": "Fulfil education va Instant group bo'yicha savollaringizni bering!",
+    "messages": [ {
+        "author": "me",
+        "date": "15:24",
+        "message": "Kursimiz haqida fikringiz?"
+    }]
+}
+,
+{
+    "id": 10,
+    "name": "Temur aka",
+    "profil": "assets/img/temur.jpg",
+    "phone": "+998 99 938 32 24",
+    "username": "@Temurbek_Xaydarov",
+    "bio": "Fa izo azamta fatavakkal alalloh!",
+    "messages": [ {
+        "author": "me",
+        "date": "23:36",
+        "message": "Assalomu alaykum yaxshimisiz!"
+    }]
+}
+]
